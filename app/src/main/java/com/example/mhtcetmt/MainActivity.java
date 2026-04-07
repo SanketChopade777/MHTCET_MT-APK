@@ -226,7 +226,7 @@ public class MainActivity extends AppCompatActivity {
                 "Connecting to server...",
                 "Fetching dashboard...",
                 "Almost there...",
-                "Welcome to TrackPM!"
+                "Welcome to MHTCET MT!"
         };
 
         Handler handler = new Handler();
